@@ -3,4 +3,4 @@ pandas
 numpy
 ta
 yfinance
-pip install --find-links build_helpers\ TA-Lib -U
+ta-lib-bin
